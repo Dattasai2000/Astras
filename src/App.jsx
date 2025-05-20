@@ -14,7 +14,7 @@ export default function App() {
       <main className='p-6 text-center' >
         <h1 className='text-3xl font-bold text-gray-800'>Welcome to Astras,{user}</h1>
       </main>
-      <section className='bg-cyan-100 shadow p-4 rounded-lg max-w-md  '>
+      <section className='bg-cyan-100 shadow p-4 rounded-lg max-w-md ml-135 '>
       <h2 className='text-2xl font-semibold mb-2'>Featured Products</h2>
       <p><strong>Name:</strong>{featureproduct.name}</p>
       <p><strong>price:</strong>{featureproduct.price}</p>
